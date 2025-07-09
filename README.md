@@ -1,25 +1,25 @@
 # 🩺 Prescription Management App
 
-Ez egy React.js alapú webalkalmazás, amely orvosi receptek kezelésére szolgál. Célja, hogy egyszerű, biztonságos és hatékony módot nyújtson a páciensek számára a receptek nyomon követésére, létrehozására és kezelésére.
+This is a React.js-based web application designed to manage medical prescriptions. Its goal is to provide a simple, secure, and efficient way for patients to track, create, and manage their prescriptions.
 
-## 🚀 Funkciók
+## 🚀 Features
 
-- 👨‍⚕️ Új receptek létrehozása
-- 🧾 Receptek listázása és részletezése
-- ✏️ Receptek szerkesztése, törlése
+- 👨‍⚕️ Create new prescriptions
+- 🧾 List and view prescription details
+- ✏️ Edit and delete prescriptions
 
-## 🛠️ Technológiák
+## 🛠️ Technologies
 
-- **React.js** – Frontend keretrendszer
-- **React Router** – Oldal navigáció
-- **TailwindCSS / Lucide** – UI stílusozás (választható)
-- **Context API / Redux** – Állapotkezelés
-- **MongoDB / Redis / Node.js backend** – (opcionális) adatkezelés
+- **React.js** – Frontend framework
+- **React Router** – Page navigation
+- **TailwindCSS / Lucide** – UI styling (optional)
+- **Context API / Redux** – State management
+- **MongoDB / Redis / Node.js backend** – (optional) data handling
 
-## 📦 Telepítés
+## 📦 Installation
 
 ```bash
-git clone https://githu
+git clone https://github.com/huriferenc/prescription-management.git
 cd prescription-management
 npm run build
 npm start
