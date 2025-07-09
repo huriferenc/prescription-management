@@ -1,4 +1,4 @@
-# 🩺 Prescription Management App
+# 🩺 Prescription Management Application
 
 This is a React.js-based web application designed to manage medical prescriptions. Its goal is to provide a simple, secure, and efficient way for patients to track, create, and manage their prescriptions.
 
