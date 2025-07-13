@@ -16,6 +16,11 @@ This is a React.js-based web application designed to manage medical prescription
 - **Context API / Redux** – State management
 - **MongoDB / Redis / Node.js backend** – (optional) data handling
 
+## 🎬 Demo
+
+You can try a live demo of the app here:  
+👉 [https://prescription-management.onrender.com](https://prescription-management.onrender.com)
+
 ## 📦 Installation
 
 ```bash
